@@ -27,4 +27,4 @@ Contributions are welcome! To contribute to FileCoffer, follow these steps:
 
 ## Contact
 
-For inquiries and support, please contact @ShivaniSuresh1 or @Shyami31.
+For inquiries and support, please contact (Shivani Suresh)[https://github.com/ShivaniSuresh1] or (Shyamala RB)[https://github.com/Shyami31] or (Mugundh JB) [https://github.com/J-B-Mugundh].
