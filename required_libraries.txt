@@ -1,0 +1,7 @@
+You will require the following libraries to run the code:
+--numpy
+--cv2
+--tkinter
+--os
+--ctypes
+--sys
